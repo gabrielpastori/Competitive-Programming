@@ -1,5 +1,6 @@
 #include <iostream>
-#include<sstream>  
+#include <sstream>  
+#include <string>
 using namespace std;
 string isLucky(string s){
     int c=0;
@@ -15,7 +16,12 @@ string isLucky(string s){
 int main(){
     string n;
     cin>>n;
-    cout<<isLucky(n)<<endl;
-    
+    string aux=isLucky(n);
+    aux=isLucky(aux);
+    istringstream iss (aux);
+    int auxNum;
+    iss>>auxNum;
+    if(auxNum>0) cout<<"YES"<<endl;
+    else cout<<"NO"<<endl;
 
 }
