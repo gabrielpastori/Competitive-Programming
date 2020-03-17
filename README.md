@@ -1,2 +1,2 @@
 # Competitive-Programming
-Soluções de problemas de Programação Competitiva
+Soluções de problemas de Programação Competitiva.
