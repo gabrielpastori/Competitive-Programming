@@ -1,4 +1,4 @@
-//Problem: https://www.urionlinejudge.com.br/judge/pt/problems/view/1582
+//Problem: https://www.urionlinejudge.com.br/judge/pt/problems/view/1764
 #include <iostream>
 #include <vector>
 #include <climits>
