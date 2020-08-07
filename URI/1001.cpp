@@ -1,4 +1,4 @@
-//Problem: https://www.urionlinejudge.com.br/judge/en/problems/view/1002
+//Problem: https://www.urionlinejudge.com.br/judge/en/problems/view/1001
 #include <iostream>
 using namespace std;
 
