@@ -1,3 +1,4 @@
+#20% TLE
 #include <iostream>
 using namespace std;
 #define MAXN 100100
