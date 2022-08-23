@@ -1,3 +1,3 @@
 # Competitive-Programming
-Soluções de problemas de Programação Competitiva.
+Soluções de uma parte dos problemas de Programação Competitiva que já resolvi.<br/>
 <b>OBI+SPOJ-BR+MARATONA-IME+MARATONA-SBC+CODCAD+CODEFORCES</b>
